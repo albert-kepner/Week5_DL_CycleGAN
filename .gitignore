@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+monet_tfrec/
+photo_jpg/
+photo_tfrec/
+monet_jpg/
+
